@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- Hi there! 👋 -->
 
-<!--
-**ValenEberhardt/ValenEberhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm ValenEberhardt 👨‍💻
 
-Here are some ideas to get you started:
+🎓 **Data Science Student** at the National University of Entre Ríos, Argentina  
+💡 Passionate about learning, building, and experimenting with tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I’m learning
+
+- **Python** (object-oriented programming enthusiast 🐍)
+- **C#** & **ASP.NET Core** (REST APIs in the making 🚀)
+- **Databases** (SQLite rookie)
+
+---
+
+### 🤖 Favorite Projects
+
+- Building REST APIs with **C#** & **ASP.NET Core**
+- Playing with **AI integration** in my apps
+
+---
+
+### 🌱 About Me
+
+- Still a student, but always curious!
+- No work experience *yet*, but eager for the adventure
+- Dreaming of joining cool projects & teams
+
+---
+
+### 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentin%20Eberhardt-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/valentin-eberhardt-15b193212)
+
+---
+
+> *“Learning is my superpower. Mate is my sidekick.”* ☕
