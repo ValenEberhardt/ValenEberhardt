@@ -15,7 +15,7 @@
 
 ---
 
-### 🤖 Favorite Projects
+### 🤖  Projects
 
 - Building REST APIs with **C#** & **ASP.NET Core**
 - Playing with **AI integration** in this one: [you can see it here!](https://github.com/ValenEberhardt/Lanzador_de_Preguntas_Conversacionales)
