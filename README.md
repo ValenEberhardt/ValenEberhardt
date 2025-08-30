@@ -25,6 +25,7 @@
 ### 🌱 About Me
 
 - Still a student, but always curious!
+- I like pixel-art and sometimes I add it to my projects
 - No work experience *yet*, but eager for the adventure
 - Dreaming of joining cool projects & teams
 
